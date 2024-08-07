@@ -48,10 +48,11 @@ To set up the project, follow these steps:
 2. **Create and Activate the Virtual Environment**
    
    ```windows
+   #for windows
    python -m venv env
    .\env\Scripts\activate
 
-   ```bash
+   #for linux
    python3 -m venv env
    source env/bin/activate
 
