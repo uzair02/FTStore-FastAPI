@@ -17,7 +17,6 @@ To set up the project, follow these steps:
 
    ```bash
    git clone https://github.com/yourusername/FTStore.git
-   cd FTStore
 
 
 Here’s a README.md file for your FTStore project:
@@ -62,6 +61,7 @@ To set up the project, follow these steps:
 
 5. **Run the Application**
    ```bash
+   cd FTStore
    uvicorn main:app --reload
 
 
