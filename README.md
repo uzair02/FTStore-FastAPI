@@ -28,7 +28,6 @@ To set up the project, follow these steps:
    #for linux
    python3 -m venv env
    source env/bin/activate
-
 3. **Install Dependencies**
    ```bash
    pip install -r requirements.txt
