@@ -18,7 +18,6 @@ To set up the project, follow these steps:
    ```bash
    git clone https://github.com/yourusername/FTStore.git
 
-
 Here’s a README.md file for your FTStore project:
 
 markdown
@@ -63,7 +62,6 @@ To set up the project, follow these steps:
    ```bash
    cd FTStore
    uvicorn main:app --reload
-
 
 # Project Structure
  - main.py: Entry point for the FastAPI application.
