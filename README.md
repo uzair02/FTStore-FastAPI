@@ -16,7 +16,7 @@ To set up the project, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/FTStore.git
+   git clone https://github.com/uzair02/FTStore-FastAPI.git
 
 2. **Create and Activate the Virtual Environment**
    
