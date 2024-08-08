@@ -37,6 +37,8 @@ To set up the project, follow these steps:
    cd FTStore
    uvicorn main:app --reload
 
+#### Note: You need to make an .env file and give scrapeops api and postgre sql connection string
+
 # Project Structure
  - main.py: Entry point for the FastAPI application.
  - controllers/: Contains FastAPI route handlers.
